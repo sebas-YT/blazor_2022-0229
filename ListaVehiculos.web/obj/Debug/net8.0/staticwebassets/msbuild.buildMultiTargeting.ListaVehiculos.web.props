@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ListaVehiculos.web.props" />
+</Project>

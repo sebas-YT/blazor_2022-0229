@@ -1,0 +1,33 @@
+﻿
+<div class="card">
+    <div class="card-header">
+        <div class="title">
+            @* @($"{Vehiculo.Matricula} - {Vehiculo.Marca} - {Vehiculo.Año} - {Vehiculo.Color} - {Vehiculo.Fecha?.ToString("dd/MM/yyyy") ?? "N/A"}") *@
+          
+            @($"Marca del vehículo: {Vehiculo.Marca}") <br />
+            @($"Tipo de vehículo: {Vehiculo.Tipo}") <br />
+            @($"Modelo del vehículo: {Vehiculo.Modelo}") <br />
+         
+
+        </div>
+        <span class="btn btn-danger mt-3" @onclick="EliminarVehiculo">Eliminar</span>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public VehicleDto Vehiculo { get; set; } = null!;
+
+    [Parameter]
+    public EventCallback<int> OnEliminar { get; set; }
+
+    private async Task EliminarVehiculo()
+    {
+        if (OnEliminar.HasDelegate)
+        {
+            await OnEliminar.InvokeAsync(Vehiculo.Id);
+        }
+    }
+
+}

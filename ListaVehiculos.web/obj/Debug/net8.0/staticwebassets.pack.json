@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ListaVehiculos.web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ListaVehiculos.web.rid2tukh5b.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ListaVehiculos.web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ListaVehiculos.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ListaVehiculos.web.props",
+      "PackagePath": "build\\ListaVehiculos.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ListaVehiculos.web.props",
+      "PackagePath": "buildMultiTargeting\\ListaVehiculos.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ListaVehiculos.web.props",
+      "PackagePath": "buildTransitive\\ListaVehiculos.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

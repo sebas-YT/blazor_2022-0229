@@ -1,0 +1,92 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+@using ListaVehiculos.web.Application.Services
+@inject IVehicleService vehicleService
+
+
+<PageTitle>Vehículos</PageTitle>
+
+<h1 style="text-align:center;color:black; font-size:25px"> <strong>REGISTRO DE VEHÍCULOS</strong> </h1><br />
+
+<div id="container-1" style="display:flex; align-items:baseline; margin-left:10% ">
+
+   
+
+    <div class="form-group mb-2" style="margin-right:10px">
+        <label for="tarea"> <strong>Marca</strong> </label>
+        <input @bind="Vehiculo.Marca" type="text" class="form-control"
+               placeholder="Marca del vehículo" style="width:auto" />
+    </div>
+
+    <div class="form-group mb-2" style="margin-right:10px">
+        <label for="tarea"> <strong>Tipo</strong> </label>
+        <input @bind="Vehiculo.Tipo" type="text" class="form-control"
+               placeholder="Tipo de vehículo" style="width:auto" />
+    </div>
+
+    
+
+</div>
+
+<div id="container-2" style="display:flex; align-items:baseline; margin-left:10%">
+
+    <div class="form-group mb-2" style="margin-right:10px">
+        <label for="tarea"> <strong>Modelo</strong> </label>
+        <input @bind="Vehiculo.Modelo" type="text" class="form-control"
+               placeholder="Modelo del vehículo" style="width:auto" />
+    </div>
+
+
+</div>
+
+
+
+
+
+<span class="btn btn-primary" style="margin-left:44%" @onclick="Agregar">Agregar</span>
+
+<div class="card mt-3">
+    <div class="card-header" style="text-align:center; font-size:25px">
+        <strong>Vehículos Registrados</strong>
+    </div>
+    <div class="card-body" style="background-color:antiquewhite">
+        <div class="container">
+            @if (ListaVehiculos.Any())
+            {
+                @foreach (var t in ListaVehiculos)
+                {
+                    <VehicleViewer Vehiculo="t" OnEliminar="()=>Eliminar(t.Id)" />
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+@code{
+
+    public VehicleDto Vehiculo { get; set; } = new();
+    public List<VehicleDto> ListaVehiculos { get; set; } = [];
+
+   
+    protected override async Task OnInitializedAsync()
+    {
+        ListaVehiculos = await vehicleService.Consultar();
+    }
+
+    async void Agregar()
+    {
+        ListaVehiculos = await vehicleService.Guardar(Vehiculo);
+        StateHasChanged();
+    }
+    /// <
+    /// <param name="Id"></param>
+    async void Eliminar(int Id)
+    {
+        ListaVehiculos = await vehicleService.Eliminar(Id);
+        StateHasChanged();
+    }
+
+
+}
