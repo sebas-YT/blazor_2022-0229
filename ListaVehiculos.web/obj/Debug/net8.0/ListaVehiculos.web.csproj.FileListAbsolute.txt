@@ -32,3 +32,37 @@ C:\Users\elseb\OneDrive\Desktop\vehiculos\ListaVehiculos\ListaVehiculos.web\obj\
 C:\Users\elseb\OneDrive\Desktop\vehiculos\ListaVehiculos\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.pdb
 C:\Users\elseb\OneDrive\Desktop\vehiculos\ListaVehiculos\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.genruntimeconfig.cache
 C:\Users\elseb\OneDrive\Desktop\vehiculos\ListaVehiculos\ListaVehiculos.web\obj\Debug\net8.0\ref\ListaVehiculos.web.dll
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\appsettings.Development.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\appsettings.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.staticwebassets.runtime.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.staticwebassets.endpoints.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.exe
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.deps.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.runtimeconfig.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.dll
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\bin\Debug\net8.0\ListaVehiculos.web.pdb
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.AssemblyInfoInputs.cache
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.AssemblyInfo.cs
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.sourcelink.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\scopedcss\bundle\ListaVehiculos.web.styles.css
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\scopedcss\projectbundle\ListaVehiculos.web.bundle.scp.css
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets\msbuild.ListaVehiculos.web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets\msbuild.ListaVehiculos.web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets\msbuild.build.ListaVehiculos.web.props
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListaVehiculos.web.props
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListaVehiculos.web.props
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.dll
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\refint\ListaVehiculos.web.dll
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.pdb
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ListaVehiculos.web.genruntimeconfig.cache
+C:\Nueva carpeta\blazor_2022-0229\ListaVehiculos.web\obj\Debug\net8.0\ref\ListaVehiculos.web.dll

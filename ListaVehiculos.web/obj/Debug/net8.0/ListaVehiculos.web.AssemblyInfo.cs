@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaVehiculos.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13b758bcde14e749a825a86ec61d1479d382c14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37575d0174974b4325486a8941474d55431c2a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaVehiculos.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaVehiculos.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

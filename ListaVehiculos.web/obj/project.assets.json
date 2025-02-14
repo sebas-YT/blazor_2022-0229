@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\ListaVehiculos.web.csproj",
+      "projectUniqueName": "C:\\Nueva carpeta\\blazor_2022-0229\\ListaVehiculos.web\\ListaVehiculos.web.csproj",
       "projectName": "ListaVehiculos.web",
-      "projectPath": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\ListaVehiculos.web.csproj",
+      "projectPath": "C:\\Nueva carpeta\\blazor_2022-0229\\ListaVehiculos.web\\ListaVehiculos.web.csproj",
       "packagesPath": "C:\\Users\\elseb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elseb\\OneDrive\\Desktop\\vehiculos\\ListaVehiculos\\ListaVehiculos.web\\obj\\",
+      "outputPath": "C:\\Nueva carpeta\\blazor_2022-0229\\ListaVehiculos.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
